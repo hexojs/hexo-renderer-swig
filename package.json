@@ -1,0 +1,36 @@
+{
+  "name": "hexo-renderer-swig",
+  "version": "0.1.0",
+  "description": "Swig renderer plugin for Hexo",
+  "main": "index",
+  "scripts": {
+    "eslint": "eslint .",
+    "jscs": "jscs .",
+    "test": "mocha test/index.js",
+    "test-cov": "istanbul cover --print both _mocha -- test/index.js"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": "hexojs/hexo-renderer-swig",
+  "keywords": [
+    "hexo",
+    "swig",
+    "renderer"
+  ],
+  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "license": "MIT",
+  "dependencies": {
+    "swig": "^1.4.2",
+    "swig-extras": "0.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "eslint": "^1.10.3",
+    "eslint-config-hexo": "^1.0.2",
+    "istanbul": "^0.4.1",
+    "jscs": "^2.7.0",
+    "jscs-preset-hexo": "^1.0.1",
+    "mocha": "^2.3.4"
+  }
+}
