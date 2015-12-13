@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-swig",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Swig renderer plugin for Hexo",
   "main": "index",
   "scripts": {
