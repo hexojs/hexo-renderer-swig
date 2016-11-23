@@ -21,7 +21,7 @@
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "license": "MIT",
   "dependencies": {
-    "swig": "^1.4.2",
+    "swig-templates": "^2.0.0",
     "swig-extras": "0.0.1"
   },
   "devDependencies": {
