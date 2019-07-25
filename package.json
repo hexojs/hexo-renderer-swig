@@ -2,7 +2,7 @@
   "name": "hexo-renderer-swig",
   "version": "1.1.0",
   "description": "Swig renderer plugin for Hexo",
-  "main": "index",
+  "main": "index.js",
   "scripts": {
     "eslint": "eslint .",
     "test": "mocha test/index.js",
@@ -11,6 +11,10 @@
   "directories": {
     "lib": "./lib"
   },
+  "files": [
+    "lib/",
+    "index.js"
+  ],
   "repository": "hexojs/hexo-renderer-swig",
   "keywords": [
     "hexo",
