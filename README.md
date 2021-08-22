@@ -12,4 +12,4 @@ Add support for [Swig].
 $ npm install hexo-renderer-swig --save
 ```
 
-[Swig]: http://paularmstrong.github.io/swig/
+[Swig]: https://node-swig.github.io/swig-templates/
