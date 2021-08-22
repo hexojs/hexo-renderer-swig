@@ -1,3 +1,7 @@
+# DEPRECATED!
+
+hexo-renderer-swig has been deprecated.
+
 # hexo-renderer-swig
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-renderer-swig.svg?branch=master)](https://travis-ci.org/hexojs/hexo-renderer-swig)
